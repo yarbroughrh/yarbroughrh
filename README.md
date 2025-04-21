@@ -98,15 +98,8 @@ Welcome to my GitHub Page! I'm Hunter Yarbrough, a Software Engineer based in De
 - Integrating various cryptocurrency protocols
 - Leveraging Chainlink for blockchain/off-chain data connections
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity Graph
 
-<details open>
-  <summary>Click to expand!</summary>
-
-![Hunter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yarbroughrh&show_icons=true&count_private=true&theme=default&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yarbroughrh&layout=compact&langs_count=8&theme=default&hide_border=false)
-
-</details>
+![Hunter's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yarbroughrh&theme=github-dark&hide_border=true)
 
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
