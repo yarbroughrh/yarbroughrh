@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Hunter" title="👋 Hi there! I'm Hunter"/>
 <div align="justify">
 
 <a href="https://www.linkedin.com/in/hunteryarbrough">
