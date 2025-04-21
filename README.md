@@ -94,8 +94,11 @@ Welcome to my GitHub Page! I'm Hunter Yarbrough, a Software Engineer based in De
 </table>
 
 ## 🔗 Blockchain Expertise
-- Developing, testing, and deploying smart contracts
-- Integrating various cryptocurrency protocols
-- Leveraging Chainlink for blockchain/off-chain data connections
+- Developing, testing, and deploying secure smart contracts
+- Integrating and building applications with various Web3 services
+- Leveraging Chainlink Functions for reliable blockchain/off-chain data connections
+- Active member and contributor to multiple DAOs, participating in governance and proposal development
+- Co-founder of Nebula, a DePIN startup empowering users to monetize unused data by supporting decentralized networks
+- Experienced in DePIN network deployments, tokenomics, and decentralized infrastructure solutions
 
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
