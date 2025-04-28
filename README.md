@@ -98,5 +98,5 @@ Hi, I'm Hunter Yarbrough, a Software Engineer based in Denver, CO. With expertis
 - Integrating and building applications with various Web3 services
 - Leveraging Chainlink Functions for reliable blockchain/off-chain data connections
 - Active member and contributor to multiple DAOs, participating in governance and proposal development
-- Co-founder of Nebula, a DePIN startup empowering users to monetize unused data by supporting decentralized networks
+- Co-founder of Nebula, a Web3 startup empowering users to monetize unused data by supporting decentralized networks
 - Experienced in DePIN network deployments, tokenomics, and decentralized infrastructure solutions
