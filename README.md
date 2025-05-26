@@ -15,7 +15,7 @@
 </div>
 <p></p>
 <p align="justify">
-Hi, I'm Hunter Yarbrough, a Software Engineer based in Denver, CO. With expertise in full-stack development and a strong focus on blockchain technology, I'm passionate about creating secure, scalable applications that address real-world challenges. Welcome to my GitHub page!
+Hi, I'm Hunter Yarbrough, a Software Engineer based in Denver, CO. With expertise in full-stack development and a strong focus on blockchain technology, I'm passionate about creating secure, scalable applications that address real-world challenges.
 </p>
 
 ## My favorite tools and technologies ⚙️
