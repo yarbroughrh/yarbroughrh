@@ -100,7 +100,7 @@ I specialize in building and demonstrating API-driven platforms, designing proof
 - Worked closely with product, engineering, and customer-facing teams to translate real-world workflows into software solutions
 - Troubleshot and resolved customer-reported issues across APIs, billing systems, and cloud infrastructure
 
-## Blockchain Expertise
+## Domain Experience: Blockchain & Decentralized Systems
 - Developing, testing, and deploying secure smart contracts
 - Integrating and building applications with various Web3 services
 - Leveraging Chainlink Functions for reliable blockchain/off-chain data connections
