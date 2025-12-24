@@ -15,7 +15,8 @@
 </div>
 <p></p>
 <p align="justify">
-Hi, I'm Hunter Yarbrough, a Software Engineer based in Denver, CO. With expertise in full-stack development and a strong focus on blockchain technology, I'm passionate about creating secure, scalable applications that address real-world challenges.
+Hi, I’m Hunter, a Software and Solutions Engineer with a software engineering background, based in Denver, CO.
+I specialize in building and demonstrating API-driven platforms, designing proofs-of-concept, and translating customer workflows into scalable, production-ready solutions. I’ve worked on billing systems, security-sensitive APIs, cloud infrastructure, and customer-facing integrations used by enterprise teams.
 </p>
 
 ## My favorite tools and technologies ⚙️
@@ -93,9 +94,16 @@ Hi, I'm Hunter Yarbrough, a Software Engineer based in Denver, CO. With expertis
   </tr>
 </table>
 
-## 🔗 Blockchain Expertise
+## Customer-Focused Solutions Work
+- Designed and implemented API-driven platforms used by enterprise customers
+- Built proof-of-concepts and demo environments to support customer onboarding and technical validation
+- Worked closely with product, engineering, and customer-facing teams to translate real-world workflows into software solutions
+- Troubleshot and resolved customer-reported issues across APIs, billing systems, and cloud infrastructure
+
+## Blockchain Expertise
 - Developing, testing, and deploying secure smart contracts
 - Integrating and building applications with various Web3 services
 - Leveraging Chainlink Functions for reliable blockchain/off-chain data connections
 - Active member and contributor to multiple DAOs, participating in governance and proposal development
 - Experienced in DePIN network deployments, tokenomics, and decentralized infrastructure solutions
+
