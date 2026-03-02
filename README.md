@@ -20,7 +20,7 @@
 
 Hi, I’m Hunter — a Software and Solutions Engineer based in Denver. I specialize in architecting and demonstrating API-driven platforms for enterprise customers, translating complex workflows into secure, scalable, production-ready systems.
 
-My experience spans billing systems, security-sensitive APIs, cloud-native infrastructure, and customer-facing integrations deployed at scale. I work at the intersection of engineering, product, and sales — turning technical architecture into real business outcomes.
+My experience spans billing systems, security-sensitive APIs, cloud-native infrastructure, and customer-facing integrations deployed at scale. I work at the intersection of engineering, product, and sales, turning technical architecture into real business outcomes.
 
 ---
 
